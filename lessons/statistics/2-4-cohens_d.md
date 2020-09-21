@@ -6,4 +6,4 @@ The Chohen's D for the pregency weight of first born children compared to later 
 
 In addition, I checked out just the simple difference of means between the two groups and found first born children had a mean weight that was 0.12 pounds less than the later born children. This equates to less than 2% of the mean for the weight of first born children. Again this shows us there is really no concernable difference.
 
-work found [here](https://github.com/ry-werth/dsp/blob/master/lessons/statistics/thinkstats_2/code/ryan-ch2-ex4.ipynb)
+work found [here](./thinkstats_2/code/ryan-ch2-ex4.ipynb)
